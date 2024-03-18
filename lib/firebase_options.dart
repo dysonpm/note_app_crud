@@ -50,17 +50,17 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCDvYrAItctZc94cxtl57vx9INmkqUy5vI',
-    appId: '1:886559462586:android:03312787f1b012ecec1e83',
-    messagingSenderId: '886559462586',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'notesappcrud-50b7c',
     storageBucket: 'notesappcrud-50b7c.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyARkpq-EB0SHeS7t0DFwq-J5r6DxUv8ii4',
-    appId: '1:886559462586:ios:d548a6e21654fedcec1e83',
-    messagingSenderId: '886559462586',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'notesappcrud-50b7c',
     storageBucket: 'notesappcrud-50b7c.appspot.com',
     iosBundleId: 'com.example.noteAppCrud',
